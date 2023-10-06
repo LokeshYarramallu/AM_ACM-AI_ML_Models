@@ -2,8 +2,9 @@
   <h1>ASC_AM_ML_Models</h1>
   <br/>
 </div>
-
 <div align='center'>
+
+<img src="https://img.shields.io/badge/IT'S%20HACKTOBERFEST-GET%20ASSAIGNED%20TO%20AN%20ISSUE%20AND%20START%20CONTRIBUTING-green?labelColor=black&style=social" alt="IT'S HACKTOBERFEST" />
 
 <img src="https://img.shields.io/badge/ACM--SIGAI--Amritapuri-Amrita%20Vishwa%20Vidhyapeetam-Brown?labelColor=Orange&style=for-the-badge&logo=School&logoColor=Yellow" alt="ACM-SIGAI-Amritapuri" />
 <br><br>
@@ -43,12 +44,14 @@
   <li><a href="#license">License</a></li>
 </ul>
 
+# 
+
 ## How to Start and Rules 
 1. Enter into the specific folder as per your preferred classifier (if classifier is preferred then focus on data preprocessing steps by taking complex and raw datasets and play with it)
 2. Or if you would like to use multiple classifiers on a single dataset go into the multiclassifier models
 3. Create a folder with the name of your project (training title) in that folder
 4. Make a markdown file and specify the details of your ML model you are building (**Detailed Documentation of process is required**)
-5. Now load the dataset folder you are going to use for training, validation and testing if the datset is too big or if not possible to push include the link or source of the dataset (kaggle, drive, etc...)
+5. Now load the dataset folder you are going to use for training, validation and testing if the datset is too big or if not possible to push include the link or source of the dataset in the top of markdown file you created before(kaggle, drive, etc...)
 6. Finally, start your training by making a JupyterNotebook in that folder, Explain the process happening in each cell (**must include data visualization during the preprocessing steps**)
 
 ## Contributing
