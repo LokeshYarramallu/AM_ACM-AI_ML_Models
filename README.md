@@ -11,7 +11,7 @@
 <br><br>
 
  <b>PROJECT DESCRIPTION</b><br>
-  This repository is dedicated to the development and exploration of machine learning models, with a primary focus on dataset preprocessing and datacleaning. Our goal is to build, analyze, and improve various machine learning classifiers while highlighting the importance of high-quality data preprocessing in achieving accurate and robust results.
+  This is a new open source repository is dedicated to the development and exploration of machine learning models, with a primary focus on dataset preprocessing and datacleaning. Our goal is to build, analyze, and improve various machine learning classifiers while highlighting the importance of high-quality data preprocessing in achieving accurate and robust results.
 
 <br>
 <h2>✨Contributors</h2>   
