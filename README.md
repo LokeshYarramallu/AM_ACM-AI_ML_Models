@@ -4,11 +4,12 @@
 </div>
 <div align='center'>
 
+<br>
 <img src="https://img.shields.io/badge/IT'S%20HACKTOBERFEST-GET%20ASSAIGNED%20TO%20AN%20ISSUE%20AND%20START%20CONTRIBUTING-green?labelColor=black&style=social" alt="IT'S HACKTOBERFEST" />
-<br><br>
+<div align='center'>
+
 <img src="https://img.shields.io/badge/ACM--SIGAI--Amritapuri-Amrita%20Vishwa%20Vidhyapeetam-Brown?labelColor=Orange&style=for-the-badge&logo=School&logoColor=Yellow" alt="ACM-SIGAI-Amritapuri" />
 <br><br>
-
 
  <b>PROJECT DESCRIPTION</b><br>
   This repository is dedicated to the development and exploration of machine learning models, with a primary focus on dataset preprocessing and datacleaning. Our goal is to build, analyze, and improve various machine learning classifiers while highlighting the importance of high-quality data preprocessing in achieving accurate and robust results.
