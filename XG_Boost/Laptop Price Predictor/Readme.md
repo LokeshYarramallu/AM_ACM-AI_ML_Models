@@ -2,6 +2,11 @@
 
 Are you looking to buy a laptop? We've developed an ML model trained with XGBRegressor that can predict the price of the laptop you want based on your specifications. This model allows you to easily evaluate the price of a laptop with the specific features you desire, all from the comfort of your chair. Please note that this is a prototype model with certain limitations related to data accuracy due to changes over time and currency formats.
 
+## Model Used
+
+# XGBRegressor :
+Extreme Gradient Boosting (XGBoost) is an open-source library that provides an efficient and effective implementation of the gradient boosting algorithm. It is an efficient implementation of gradient boosting that can be used for regression predictive modeling.
+
 ## Dataset
 
 The model is trained on the "Laptop Price Prediction" dataset, which includes various laptop brands and models, along with specifications such as RAM, Storage, Screen size, Operating System (OS), GPU, and Weight.
