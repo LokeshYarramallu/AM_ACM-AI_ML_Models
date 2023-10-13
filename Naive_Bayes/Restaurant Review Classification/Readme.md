@@ -22,7 +22,7 @@ The preprocessed data is then passed through CountVectorizer, a common feature e
 The reviews, represented as bags of words, are split into a 3:1 ratio for training and testing. The Gaussian Naïve Bayes Classifier is fitted to the data and predictions are made. The model outputs '1' for positive reviews and '0' for negative reviews.
 
 ## Performance Metrics
-Performance metrics, including accuracy, true positives, true negatives, false positives, and false negatives, are calculated using the scikit-learn library. The model achieved an accuracy of 66%, with 68% true positives, 97% true negatives, 66% false positives, and 19% false negatives.
+Performance metrics, including accuracy, true positives, true negatives, false positives, and false negatives, are calculated using the scikit-learn library. The model achieved an accuracy of 73%, with 55% true positives, 91% true negatives, 42% false positives, and 12% false negatives.
 
 ## Model Deployment
 The trained model can be deployed by loading it through a pickle file, making it ready for use by restaurant owners, managers, and customers.
