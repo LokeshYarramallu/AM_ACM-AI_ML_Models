@@ -1,7 +1,3 @@
-# K.SriKausik_S2
-
-This task demonstrates the process of loading a dataset, selecting a target column, splitting it into training and testing sets, and using various classifiers to create a machine learning model for predicting the target.
-
  # DataSet :
 
  - The given dataset was [heart-disease-prediction](https://www.kaggle.com/datasets/ritwikb3/heart-disease-statlog).
