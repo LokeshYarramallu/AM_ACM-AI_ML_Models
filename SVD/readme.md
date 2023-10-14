@@ -39,9 +39,13 @@ Here, Singular values are the square of Eigen values i.e., if \(\sigma_1\), \(\s
 
 7. **Verify the Decomposition**: Check if \(X \approx U \Sigma V^T\). This serves as a verification of the correctness of the SVD.
 
-8. **Optional: Rank Reduction**:
-   - If dimensionality reduction is desired, keep only the top \(k\) singular values and their corresponding vectors in \(U\) and \(V\) to obtain a lower-dimensional approximation.
+8. **Optional: Rank Reduction**: If dimensionality reduction is desired, keep only the top \(k\) singular values and their corresponding vectors in \(U\) and \(V\) to obtain a lower-dimensional approximation.
 
 9. **Reconstruction (Optional)**: If you've performed rank reduction, you can reconstruct an approximation of the original matrix using the truncated \(U\), \(\Sigma\), and \(V\) matrices.
 
 10. **Applications**: Utilize the SVD results for various applications, such as dimensionality reduction, image compression, collaborative filtering, and more.
+
+For more detailed information on Singular Value Decomposition (SVD), you can refer to 
+ - [This GeeksforGeeks article](https://www.geeksforgeeks.org/singular-value-decomposition-svd/).
+ - [Wikipedia](https://en.wikipedia.org/wiki/Singular_value_decomposition).
+ - [Detailed guide for claculating SVD in python](https://machinelearningmastery.com/singular-value-decomposition-for-machine-learning/).
