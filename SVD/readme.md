@@ -47,6 +47,8 @@ Here, Singular values are the square of Eigen values i.e., if \(\sigma_1\), \(\s
 
 
 For visualizing SVD, you cane refer to [Visualize SVD](https://www.youtube.com/watch?v=vSczTbgc8Rc&ab_channel=VisualKernel)
+![WhatsApp Image 2023-10-14 at 14 53 48_2db85ea3](https://github.com/Kaushik-2005/AM_ACM-AI_ML_Models/assets/124148538/6290988e-f74c-4494-98da-55274bd98803)
+![image](https://github.com/Kaushik-2005/AM_ACM-AI_ML_Models/assets/124148538/cefc7de9-6194-4a69-81d7-1b8ebd94aa25)
 
 
 For more detailed information on Singular Value Decomposition (SVD), you can refer to 
