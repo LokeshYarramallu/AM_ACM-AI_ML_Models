@@ -4,7 +4,7 @@ This repository contains code and data for analyzing Near-Earth Object (NEO) dat
 
 ## Dataset
 
-The dataset used in this project is sourced from [(https://www.kaggle.com/datasets/shivd24coder/nasa-neo-near-earth-object-dataset)]. It includes information about NEOs such as their names, designations, sizes, velocities, and whether they are potentially hazardous.
+The dataset used in this project is sourced from [https://www.kaggle.com/datasets/shivd24coder/nasa-neo-near-earth-object-dataset]. It includes information about NEOs such as their names, designations, sizes, velocities, and whether they are potentially hazardous.
 
 ## Data Preprocessing
 
