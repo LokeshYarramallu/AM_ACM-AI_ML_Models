@@ -20,9 +20,7 @@ Here, Singular values are the square of Eigen values i.e., if \(\sigma_1\), \(\s
 &emsp;&emsp;&emsp;\(\sigma_2 = \sqrt{\lambda_2}\)
 &emsp;&emsp;&emsp;\(\sigma_3 = \sqrt{\lambda_3}\)
 
-2. **Face Recognition**: Face recognition is one of the most famous use of SVD in real life. Basically it converts each face image into a matrix of pixel values. Once a matrix has been constructed we can apply SVD for the extraction of essential features. The eigenvectors with high eigenvalues represent the key facial features. These key features are also known as Eigenfaces. So this captures those important or key facial features, making it a powerful tool for face recognition.
-
-3. **Pseudoinverse and Solving Linear Systems**: Pseudoinverse is a very familiar concept for any student studying Linear algebra. It is calculated for solving linear system of equations when the matrix is not square. SVD is used in calculating the pseudoinverse of a matrix.
+2. **Pseudoinverse and Solving Linear Systems**: Pseudoinverse is a very familiar concept for any student studying Linear algebra. It is calculated for solving linear system of equations when the matrix is not square. SVD is used in calculating the pseudoinverse of a matrix.
 
 ## How to find SVD of a matrix:
 1. **Matrix Setup**: Start with a given matrix \(X\) of dimensions \(m \times n\), where \(m\) is the number of rows and \(n\) is the number of columns.
@@ -44,6 +42,12 @@ Here, Singular values are the square of Eigen values i.e., if \(\sigma_1\), \(\s
 9. **Reconstruction (Optional)**: If you've performed rank reduction, you can reconstruct an approximation of the original matrix using the truncated \(U\), \(\Sigma\), and \(V\) matrices.
 
 10. **Applications**: Utilize the SVD results for various applications, such as dimensionality reduction, image compression, collaborative filtering, and more.
+
+**Use of SVD in Face Recognition**: Face recognition is one of the most famous use of SVD in real life. Basically it converts each face image into a matrix of pixel values. Once a matrix has been constructed we can apply SVD for the extraction of essential features. The eigenvectors with high eigenvalues represent the key facial features. These key features are also known as Eigenfaces. So this captures those important or key facial features, making it a powerful tool for face recognition.
+
+
+For visualizing SVD, you cane refer to [Visualize SVD](https://www.youtube.com/watch?v=vSczTbgc8Rc&ab_channel=VisualKernel)
+
 
 For more detailed information on Singular Value Decomposition (SVD), you can refer to 
  - [This GeeksforGeeks article](https://www.geeksforgeeks.org/singular-value-decomposition-svd/).
