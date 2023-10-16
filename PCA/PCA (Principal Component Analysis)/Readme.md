@@ -116,3 +116,5 @@ For more details on PCA, click on the link.
 [Principal Component Analysis (PCA), Step-by-Step (Youtube Link)](https://www.youtube.com/watch?v=FgakZw6K1QQ&ab_channel=StatQuestwithJoshStarmer)
 
 [Principle Component Analysis (PCA) Geometric Intuition (Youtube Link in Hindi)](https://www.youtube.com/watch?v=iRbsBi5W0-c&ab_channel=CampusX)
+
+[PCA code and documentation are available here.](https://github.com/Avishek8136/Machine-Learning/blob/d949f6aba652a79b93281a9677f65bb33348fa2b/PCA.ipynb)
