@@ -10,14 +10,14 @@
 <img src="https://img.shields.io/badge/ACM--SIGAI--Amritapuri-Amrita%20Vishwa%20Vidhyapeetam-Brown?labelColor=Orange&style=for-the-badge&logo=School&logoColor=Yellow" alt="ACM-SIGAI-Amritapuri" />
 <br><br>
 
- <b>PROJECT DESCRIPTION</b><br>
-  This is a new open source repository is dedicated to the development and exploration of machine learning models, with a primary focus on dataset preprocessing and datacleaning. Our goal is to build, analyze, and improve various machine learning classifiers while highlighting the importance of high-quality data preprocessing in achieving accurate and robust results.
+<b>PROJECT DESCRIPTION</b><br>
+This is a new open source repository is dedicated to the development and exploration of machine learning models, with a primary focus on dataset preprocessing and datacleaning. Our goal is to build, analyze, and improve various machine learning classifiers while highlighting the importance of high-quality data preprocessing in achieving accurate and robust results.
 
 <br>
 <h2>✨Contributors</h2>   
 <br/>
 <a href="https://github.com/LokeshYarramallu/AM_ACM-AI_ML_Models/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=lokeshYarramallu/AM_ACM-AI_ML_Models"/>
+  <img src="https://contrib.rocks/image?repo=lokeshyarramallu/AM_ACM-AI_ML_Models"/>
 </a>
 <br><br>
 <br/>
@@ -44,9 +44,10 @@
   <li><a href="#license">License</a></li>
 </ul>
 
-# 
+#
 
-## How to Start and Rules 
+## How to Start and Rules
+
 1. Enter into the specific folder as per your preferred classifier (if classifier is preferred then focus on data preprocessing steps by taking complex and raw datasets and play with it)
 2. Or if you would like to use multiple classifiers on a single dataset go into the multiclassifier models
 3. Create a folder with the name of your project (training title) in that folder
@@ -55,6 +56,7 @@
 6. Finally, start your training by making a JupyterNotebook in that folder, Explain the process happening in each cell (**must include data visualization during the preprocessing steps**)
 
 ## Contributing
+
 Contributions are always welcome!
 
 1. **Fork the repository.**
@@ -108,10 +110,8 @@ Contributions are always welcome!
 
    Go to your forked repository on GitHub, and you should see a "Compare & pull request" button. Click on it to create a pull request (PR) from your branch to the main repository.
 
-
 <h2>⭐Give this Project a Star</h2>
 
 If you liked working on this project, do ⭐ and share this repository.
 
 🎉 🎊 😃 Happy Contributing 😃 🎊 🎉
-
