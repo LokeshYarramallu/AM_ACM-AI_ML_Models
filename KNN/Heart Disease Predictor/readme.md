@@ -63,7 +63,7 @@
 
 # Model Evaluation:
 
- - After creating the model with four different classifiers. Each classifier have different accuracy in predicting the value.
+ - After creating the model with five different classifiers. Each classifier have different accuracy in predicting the value.
  - The accuracy scores for differant classifiers are :<br>
                 &emsp;&emsp;&emsp;1) Decision Tree Classifier = 0.630<br>
                 &emsp;&emsp;&emsp;2) Logistic Regression Classifier = 0.926<br>
@@ -74,7 +74,7 @@
  - This indicated it did better than the other classifier.
 # Graphs:
 
- - I used matplotlib.pyplot and seasborn library for plotting graphs.
+ - I used matplotlib.pyplot and seaborn library for plotting graphs.
  - I represented no.of indidividuals with and without heart disease using a pie-chart.
  - I plotted a scatter plot with "BP" on x-aixs and "Cholesterol" on y-axis with "target" as my hue. From this plot we can the  relationship between Cholesterol and BP of those who are suffering or not suffering with heart disease.
  - I plotted a scatter plot with "BP" on x-aixs and "age" on y-axis with "target" as my hue. From this plot we can the  relationship between age and BP of those who are suffering or not suffering with heart disease.
