@@ -17,7 +17,7 @@ This is a new open source repository is dedicated to the development and explora
 <h2>✨Contributors</h2>   
 <br/>
 <a href="https://github.com/LokeshYarramallu/AM_ACM-AI_ML_Models/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=lokeshyarramallu/AM_ACM-AI_ML_Models"/>
+  <img src="https://contrib.rocks/image?repo=LokeshYarramallu/AM_ACM-AI_ML_Models"/>
 </a>
 <br><br>
 <br/>
