@@ -2,9 +2,7 @@
   <h1>ASC_AM_ML_Models</h1>
   <br/>
 </div>
-<div align='center'>
-<img src="https://img.shields.io/badge/IT'S%20HACKTOBERFEST-GET%20ASSAIGNED%20TO%20AN%20ISSUE%20AND%20START%20CONTRIBUTING-green?labelColor=black&style=social" alt="IT'S HACKTOBERFEST" />
-</div><br>
+<br>
 <div align='center'>
 
 <img src="https://img.shields.io/badge/ACM--SIGAI--Amritapuri-Amrita%20Vishwa%20Vidhyapeetam-Brown?labelColor=Orange&style=for-the-badge&logo=School&logoColor=Yellow" alt="ACM-SIGAI-Amritapuri" />
